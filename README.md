@@ -1,6 +1,6 @@
 # library-template
 
-Library config (using Rollup) with the following setup: Babel (7.x), Jest, Flow (0.75), ESLint and Prettier
+Setup for building JavaScript libraries (using Rollup) with the following: Babel (7.x), Jest, Flow (0.75), ESLint and Prettier.
 
 ## Setup
 
